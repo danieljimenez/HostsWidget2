@@ -102,7 +102,6 @@ body {
     -webkit-border-bottom-left-radius: 0px 0px;
     -webkit-border-bottom-right-radius: 0px 0px;
     opacity: 1;
-    -khtml-box-reflect: below 1px -webkit-gradient(linear, 0% 0%, 0% 100%, from(transparent), color-stop(0.5, transparent), to(rgba(255, 255, 255, 0.472656))) 0 0 0 0 stretch stretch;
     height: 202px;
     top: 24px;
     left: 19px;
@@ -145,13 +144,9 @@ body {
     -khtml-margin-bottom-collapse: separate;
 }
 
-.hostsTableAlt {
-    background-color: rgb(238, 238, 238);
-}
+.hostsTableAlt {}
 
-.hostsTableNew {
-    background-color: rgb(233, 235, 235);
-}
+.hostsTableNew {}
 
 .hostsTable tr {
     padding-top: 5px;

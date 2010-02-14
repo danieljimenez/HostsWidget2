@@ -5,10 +5,10 @@
 	<key>Breakpoints</key>
 	<dict>
 		<key>widget.wdgt/main.js:73</key>
-		<string>load</string>
+		<string>-load</string>
 	</dict>
 	<key>CYLastWindowPosition</key>
-	<string>{608, 371}</string>
+	<string>{607, 712}</string>
 	<key>ContentSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -19,8 +19,8 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {927, 481}}</string>
-			<string>{{0, 491}, {927, 248}}</string>
+			<string>{{0, 0}, {736, 341}}</string>
+			<string>{{0, 351}, {736, 385}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
@@ -43,19 +43,19 @@
 	<key>Design time language</key>
 	<string>en.lproj</string>
 	<key>EvaluatorFrame</key>
-	<string>216 403 479 226 0 0 1680 1028 </string>
+	<string>259 478 479 226 0 0 1920 1178 </string>
 	<key>MainSplitViewGeometry</key>
 	<dict>
 		<key>_indexOfCollapsedView</key>
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {244, 760}}</string>
-			<string>{{245, 0}, {928, 760}}</string>
+			<string>{{0, 0}, {244, 757}}</string>
+			<string>{{245, 0}, {737, 757}}</string>
 		</array>
 	</dict>
 	<key>MainWindowFrame</key>
-	<string>79 116 1172 781 0 0 1680 1028 </string>
+	<string>109 373 981 778 0 0 1920 1178 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -66,8 +66,8 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {246, 373}}</string>
-			<string>{{0, 383}, {246, 356}}</string>
+			<string>{{0, 0}, {246, 371}}</string>
+			<string>{{0, 381}, {246, 355}}</string>
 		</array>
 	</dict>
 	<key>Widget</key>
